@@ -1,0 +1,40 @@
+C:\Users\Ahmed\Desktop\Jeu\Jeu\obj\Debug\Jeu.csproj.AssemblyReference.cache
+C:\Users\Ahmed\Desktop\Jeu\Jeu\obj\Debug\MainWindow.g.cs
+C:\Users\Ahmed\Desktop\Jeu\Jeu\obj\Debug\App.g.cs
+C:\Users\Ahmed\Desktop\Jeu\Jeu\obj\Debug\Jeu_MarkupCompile.cache
+C:\Users\Ahmed\Desktop\Jeu\Jeu\obj\Debug\Jeu_MarkupCompile.lref
+C:\Users\Ahmed\Desktop\Jeu\Jeu\obj\Debug\MainWindow.baml
+C:\Users\Ahmed\Desktop\Jeu\Jeu\obj\Debug\Jeu.g.resources
+C:\Users\Ahmed\Desktop\Jeu\Jeu\obj\Debug\Jeu.pdb
+C:\Users\Ahmed\Desktop\Jeu\Jeu\bin\Debug\Jeu.exe.config
+C:\Users\Ahmed\Desktop\Jeu\Jeu\bin\Debug\Jeu.exe
+C:\Users\Ahmed\Desktop\Jeu\Jeu\bin\Debug\Jeu.pdb
+C:\Users\Ahmed\Desktop\Jeu\Jeu\obj\Debug\Jeu.Properties.Resources.resources
+C:\Users\Ahmed\Desktop\Jeu\Jeu\obj\Debug\Jeu.csproj.GenerateResource.cache
+C:\Users\Ahmed\Desktop\Jeu\Jeu\obj\Debug\Jeu.csproj.CoreCompileInputs.cache
+C:\Users\Ahmed\Desktop\Jeu\Jeu\obj\Debug\Jeu.exe
+C:\Users\Ahmed\Desktop\Jeu\Jeu\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Ahmed\Desktop\Jeu\Jeu\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ahmed\Desktop\Jeu\Jeu\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Ahmed\Desktop\Jeu\Jeu\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ahmed\Desktop\Jeu\Jeu\obj\Debug\Jeu.csproj.CopyComplete
+C:\Users\Ahmed\Desktop\IUT\CODES\LOL VS\LoLJeu\JeuV1\Jeu\bin\Debug\Jeu.exe.config
+C:\Users\Ahmed\Desktop\IUT\CODES\LOL VS\LoLJeu\JeuV1\Jeu\bin\Debug\Jeu.exe
+C:\Users\Ahmed\Desktop\IUT\CODES\LOL VS\LoLJeu\JeuV1\Jeu\bin\Debug\Jeu.pdb
+C:\Users\Ahmed\Desktop\IUT\CODES\LOL VS\LoLJeu\JeuV1\Jeu\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Ahmed\Desktop\IUT\CODES\LOL VS\LoLJeu\JeuV1\Jeu\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ahmed\Desktop\IUT\CODES\LOL VS\LoLJeu\JeuV1\Jeu\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Ahmed\Desktop\IUT\CODES\LOL VS\LoLJeu\JeuV1\Jeu\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ahmed\Desktop\IUT\CODES\LOL VS\LoLJeu\JeuV1\Jeu\obj\Debug\Jeu.csproj.AssemblyReference.cache
+C:\Users\Ahmed\Desktop\IUT\CODES\LOL VS\LoLJeu\JeuV1\Jeu\obj\Debug\MainWindow.g.cs
+C:\Users\Ahmed\Desktop\IUT\CODES\LOL VS\LoLJeu\JeuV1\Jeu\obj\Debug\App.g.cs
+C:\Users\Ahmed\Desktop\IUT\CODES\LOL VS\LoLJeu\JeuV1\Jeu\obj\Debug\Jeu_MarkupCompile.cache
+C:\Users\Ahmed\Desktop\IUT\CODES\LOL VS\LoLJeu\JeuV1\Jeu\obj\Debug\Jeu_MarkupCompile.lref
+C:\Users\Ahmed\Desktop\IUT\CODES\LOL VS\LoLJeu\JeuV1\Jeu\obj\Debug\MainWindow.baml
+C:\Users\Ahmed\Desktop\IUT\CODES\LOL VS\LoLJeu\JeuV1\Jeu\obj\Debug\Jeu.g.resources
+C:\Users\Ahmed\Desktop\IUT\CODES\LOL VS\LoLJeu\JeuV1\Jeu\obj\Debug\Jeu.Properties.Resources.resources
+C:\Users\Ahmed\Desktop\IUT\CODES\LOL VS\LoLJeu\JeuV1\Jeu\obj\Debug\Jeu.csproj.GenerateResource.cache
+C:\Users\Ahmed\Desktop\IUT\CODES\LOL VS\LoLJeu\JeuV1\Jeu\obj\Debug\Jeu.csproj.CoreCompileInputs.cache
+C:\Users\Ahmed\Desktop\IUT\CODES\LOL VS\LoLJeu\JeuV1\Jeu\obj\Debug\Jeu.csproj.CopyComplete
+C:\Users\Ahmed\Desktop\IUT\CODES\LOL VS\LoLJeu\JeuV1\Jeu\obj\Debug\Jeu.exe
+C:\Users\Ahmed\Desktop\IUT\CODES\LOL VS\LoLJeu\JeuV1\Jeu\obj\Debug\Jeu.pdb
