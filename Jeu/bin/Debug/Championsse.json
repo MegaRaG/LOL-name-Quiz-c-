@@ -1,0 +1,638 @@
+[
+  {
+    "NumeroChampion": 1,
+    "Nom": "Aatrox"
+  },
+  {
+    "NumeroChampion": 2,
+    "Nom": "Ahri"
+  },
+  {
+    "NumeroChampion": 3,
+    "Nom": "Akali"
+  },
+  {
+    "NumeroChampion": 4,
+    "Nom": "Akshan"
+  },
+  {
+    "NumeroChampion": 5,
+    "Nom": "Alistar"
+  },
+  {
+    "NumeroChampion": 6,
+    "Nom": "Amumu"
+  },
+  {
+    "NumeroChampion": 7,
+    "Nom": "Anivia"
+  },
+  {
+    "NumeroChampion": 8,
+    "Nom": "Annie"
+  },
+  {
+    "NumeroChampion": 9,
+    "Nom": "Aphelios"
+  },
+  {
+    "NumeroChampion": 10,
+    "Nom": "Ashe"
+  },
+  {
+    "NumeroChampion": 11,
+    "Nom": "Aurelion Sol"
+  },
+  {
+    "NumeroChampion": 12,
+    "Nom": "Azir"
+  },
+  {
+    "NumeroChampion": 13,
+    "Nom": "Bard"
+  },
+  {
+    "NumeroChampion": 14,
+    "Nom": "Blitzcrank"
+  },
+  {
+    "NumeroChampion": 15,
+    "Nom": "Brand"
+  },
+  {
+    "NumeroChampion": 16,
+    "Nom": "Braum"
+  },
+  {
+    "NumeroChampion": 17,
+    "Nom": "Caitlyn"
+  },
+  {
+    "NumeroChampion": 18,
+    "Nom": "Camille"
+  },
+  {
+    "NumeroChampion": 19,
+    "Nom": "Cassiopeia"
+  },
+  {
+    "NumeroChampion": 20,
+    "Nom": "Cho'Gath"
+  },
+  {
+    "NumeroChampion": 21,
+    "Nom": "Corki"
+  },
+  {
+    "NumeroChampion": 22,
+    "Nom": "Darius"
+  },
+  {
+    "NumeroChampion": 23,
+    "Nom": "Diana"
+  },
+  {
+    "NumeroChampion": 24,
+    "Nom": "Mundo"
+  },
+  {
+    "NumeroChampion": 25,
+    "Nom": "Draven"
+  },
+  {
+    "NumeroChampion": 26,
+    "Nom": "Ekko"
+  },
+  {
+    "NumeroChampion": 27,
+    "Nom": "Elise"
+  },
+  {
+    "NumeroChampion": 28,
+    "Nom": "Evelynn"
+  },
+  {
+    "NumeroChampion": 29,
+    "Nom": "Ezreal"
+  },
+  {
+    "NumeroChampion": 30,
+    "Nom": "Fiddlesticks"
+  },
+  {
+    "NumeroChampion": 31,
+    "Nom": "Fiora"
+  },
+  {
+    "NumeroChampion": 32,
+    "Nom": "Fizz"
+  },
+  {
+    "NumeroChampion": 33,
+    "Nom": "Galio"
+  },
+  {
+    "NumeroChampion": 34,
+    "Nom": "Gangplank"
+  },
+  {
+    "NumeroChampion": 35,
+    "Nom": "Garen"
+  },
+  {
+    "NumeroChampion": 36,
+    "Nom": "Gnar"
+  },
+  {
+    "NumeroChampion": 37,
+    "Nom": "Gragas"
+  },
+  {
+    "NumeroChampion": 38,
+    "Nom": "Graves"
+  },
+  {
+    "NumeroChampion": 39,
+    "Nom": "Gwen"
+  },
+  {
+    "NumeroChampion": 40,
+    "Nom": "Hecarim"
+  },
+  {
+    "NumeroChampion": 41,
+    "Nom": "Heimerdinger"
+  },
+  {
+    "NumeroChampion": 42,
+    "Nom": "Illaoi"
+  },
+  {
+    "NumeroChampion": 43,
+    "Nom": "Irelia"
+  },
+  {
+    "NumeroChampion": 44,
+    "Nom": "Ivern"
+  },
+  {
+    "NumeroChampion": 45,
+    "Nom": "Janna"
+  },
+  {
+    "NumeroChampion": 46,
+    "Nom": "Jarvan IV"
+  },
+  {
+    "NumeroChampion": 47,
+    "Nom": "Jax"
+  },
+  {
+    "NumeroChampion": 48,
+    "Nom": "Jayce"
+  },
+  {
+    "NumeroChampion": 49,
+    "Nom": "Jhin"
+  },
+  {
+    "NumeroChampion": 50,
+    "Nom": "Jinx"
+  },
+  {
+    "NumeroChampion": 51,
+    "Nom": "Kai'Sa"
+  },
+  {
+    "NumeroChampion": 52,
+    "Nom": "Kalista"
+  },
+  {
+    "NumeroChampion": 53,
+    "Nom": "Karma"
+  },
+  {
+    "NumeroChampion": 54,
+    "Nom": "Karthus"
+  },
+  {
+    "NumeroChampion": 55,
+    "Nom": "Kassadin"
+  },
+  {
+    "NumeroChampion": 56,
+    "Nom": "Katarina"
+  },
+  {
+    "NumeroChampion": 57,
+    "Nom": "Kayle"
+  },
+  {
+    "NumeroChampion": 58,
+    "Nom": "Kayn"
+  },
+  {
+    "NumeroChampion": 59,
+    "Nom": "Kennen"
+  },
+  {
+    "NumeroChampion": 60,
+    "Nom": "Kha'Zix"
+  },
+  {
+    "NumeroChampion": 61,
+    "Nom": "Kindred"
+  },
+  {
+    "NumeroChampion": 62,
+    "Nom": "Kled"
+  },
+  {
+    "NumeroChampion": 63,
+    "Nom": "Kog'Maw"
+  },
+  {
+    "NumeroChampion": 64,
+    "Nom": "LeBlanc"
+  },
+  {
+    "NumeroChampion": 65,
+    "Nom": "Lee Sin"
+  },
+  {
+    "NumeroChampion": 66,
+    "Nom": "Leona"
+  },
+  {
+    "NumeroChampion": 67,
+    "Nom": "Lillia"
+  },
+  {
+    "NumeroChampion": 68,
+    "Nom": "Lissandra"
+  },
+  {
+    "NumeroChampion": 69,
+    "Nom": "Lucian"
+  },
+  {
+    "NumeroChampion": 70,
+    "Nom": "Lulu"
+  },
+  {
+    "NumeroChampion": 71,
+    "Nom": "Lux"
+  },
+  {
+    "NumeroChampion": 72,
+    "Nom": "Malphite"
+  },
+  {
+    "NumeroChampion": 73,
+    "Nom": "Malzahar"
+  },
+  {
+    "NumeroChampion": 74,
+    "Nom": "Maokai"
+  },
+  {
+    "NumeroChampion": 75,
+    "Nom": "Master Yi"
+  },
+  {
+    "NumeroChampion": 76,
+    "Nom": "Miss Fortune"
+  },
+  {
+    "NumeroChampion": 77,
+    "Nom": "Mordekaizer"
+  },
+  {
+    "NumeroChampion": 78,
+    "Nom": "Morgana"
+  },
+  {
+    "NumeroChampion": 79,
+    "Nom": "Nami"
+  },
+  {
+    "NumeroChampion": 80,
+    "Nom": "Nautilus"
+  },
+  {
+    "NumeroChampion": 81,
+    "Nom": "Nasus"
+  },
+  {
+    "NumeroChampion": 82,
+    "Nom": "Neeko"
+  },
+  {
+    "NumeroChampion": 83,
+    "Nom": "Nidalee"
+  },
+  {
+    "NumeroChampion": 84,
+    "Nom": "Nocturne"
+  },
+  {
+    "NumeroChampion": 85,
+    "Nom": "Nunu & Willump"
+  },
+  {
+    "NumeroChampion": 86,
+    "Nom": "Olaf"
+  },
+  {
+    "NumeroChampion": 87,
+    "Nom": "Oriana"
+  },
+  {
+    "NumeroChampion": 88,
+    "Nom": "Ornn"
+  },
+  {
+    "NumeroChampion": 89,
+    "Nom": "Pantheon"
+  },
+  {
+    "NumeroChampion": 90,
+    "Nom": "Poppy"
+  },
+  {
+    "NumeroChampion": 91,
+    "Nom": "Pyke"
+  },
+  {
+    "NumeroChampion": 92,
+    "Nom": "Qiyana"
+  },
+  {
+    "NumeroChampion": 93,
+    "Nom": "Quinn"
+  },
+  {
+    "NumeroChampion": 94,
+    "Nom": "Rakan"
+  },
+  {
+    "NumeroChampion": 95,
+    "Nom": "Rammus"
+  },
+  {
+    "NumeroChampion": 96,
+    "Nom": "Rek'Sai"
+  },
+  {
+    "NumeroChampion": 97,
+    "Nom": "Rell"
+  },
+  {
+    "NumeroChampion": 98,
+    "Nom": "Renata"
+  },
+  {
+    "NumeroChampion": 99,
+    "Nom": "Renekton"
+  },
+  {
+    "NumeroChampion": 100,
+    "Nom": "Rengar"
+  },
+  {
+    "NumeroChampion": 101,
+    "Nom": "Riven"
+  },
+  {
+    "NumeroChampion": 102,
+    "Nom": "Rumble"
+  },
+  {
+    "NumeroChampion": 103,
+    "Nom": "Ryze"
+  },
+  {
+    "NumeroChampion": 104,
+    "Nom": "Samira"
+  },
+  {
+    "NumeroChampion": 105,
+    "Nom": "Sejuani"
+  },
+  {
+    "NumeroChampion": 106,
+    "Nom": "Senna"
+  },
+  {
+    "NumeroChampion": 107,
+    "Nom": "Séraphine"
+  },
+  {
+    "NumeroChampion": 108,
+    "Nom": "Sett"
+  },
+  {
+    "NumeroChampion": 109,
+    "Nom": "Shaco"
+  },
+  {
+    "NumeroChampion": 110,
+    "Nom": "Shen"
+  },
+  {
+    "NumeroChampion": 111,
+    "Nom": "Shyvana"
+  },
+  {
+    "NumeroChampion": 112,
+    "Nom": "Singed"
+  },
+  {
+    "NumeroChampion": 113,
+    "Nom": "Sion"
+  },
+  {
+    "NumeroChampion": 114,
+    "Nom": "Sivir"
+  },
+  {
+    "NumeroChampion": 115,
+    "Nom": "Skarner"
+  },
+  {
+    "NumeroChampion": 116,
+    "Nom": "Sona"
+  },
+  {
+    "NumeroChampion": 117,
+    "Nom": "Soraka"
+  },
+  {
+    "NumeroChampion": 118,
+    "Nom": "Swain"
+  },
+  {
+    "NumeroChampion": 119,
+    "Nom": "Sylas"
+  },
+  {
+    "NumeroChampion": 120,
+    "Nom": "Syndra"
+  },
+  {
+    "NumeroChampion": 121,
+    "Nom": "Tahm Kench"
+  },
+  {
+    "NumeroChampion": 122,
+    "Nom": "Taliyah"
+  },
+  {
+    "NumeroChampion": 123,
+    "Nom": "Talon"
+  },
+  {
+    "NumeroChampion": 124,
+    "Nom": "Taric"
+  },
+  {
+    "NumeroChampion": 125,
+    "Nom": "Teemo"
+  },
+  {
+    "NumeroChampion": 126,
+    "Nom": "Thresh"
+  },
+  {
+    "NumeroChampion": 127,
+    "Nom": "Tristana"
+  },
+  {
+    "NumeroChampion": 128,
+    "Nom": "Trundle"
+  },
+  {
+    "NumeroChampion": 129,
+    "Nom": "Tryndamere"
+  },
+  {
+    "NumeroChampion": 130,
+    "Nom": "Twisted Fate"
+  },
+  {
+    "NumeroChampion": 131,
+    "Nom": "Twitch"
+  },
+  {
+    "NumeroChampion": 132,
+    "Nom": "Udyr"
+  },
+  {
+    "NumeroChampion": 133,
+    "Nom": "Urgot"
+  },
+  {
+    "NumeroChampion": 134,
+    "Nom": "Varus"
+  },
+  {
+    "NumeroChampion": 135,
+    "Nom": "Vayne"
+  },
+  {
+    "NumeroChampion": 136,
+    "Nom": "Veigar"
+  },
+  {
+    "NumeroChampion": 137,
+    "Nom": "Vel'Koz"
+  },
+  {
+    "NumeroChampion": 138,
+    "Nom": "Vex"
+  },
+  {
+    "NumeroChampion": 139,
+    "Nom": "Vi"
+  },
+  {
+    "NumeroChampion": 140,
+    "Nom": "Viego"
+  },
+  {
+    "NumeroChampion": 141,
+    "Nom": "Viktor"
+  },
+  {
+    "NumeroChampion": 142,
+    "Nom": "Vladimir"
+  },
+  {
+    "NumeroChampion": 143,
+    "Nom": "Volibear"
+  },
+  {
+    "NumeroChampion": 144,
+    "Nom": "Warwick"
+  },
+  {
+    "NumeroChampion": 145,
+    "Nom": "Wukong"
+  },
+  {
+    "NumeroChampion": 146,
+    "Nom": "Xayah"
+  },
+  {
+    "NumeroChampion": 147,
+    "Nom": "Xerath"
+  },
+  {
+    "NumeroChampion": 148,
+    "Nom": "Xin Zhao"
+  },
+  {
+    "NumeroChampion": 149,
+    "Nom": "Yasuo"
+  },
+  {
+    "NumeroChampion": 150,
+    "Nom": "Yone"
+  },
+  {
+    "NumeroChampion": 151,
+    "Nom": "Yorick"
+  },
+  {
+    "NumeroChampion": 152,
+    "Nom": "Yuumi"
+  },
+  {
+    "NumeroChampion": 153,
+    "Nom": "Zac"
+  },
+  {
+    "NumeroChampion": 154,
+    "Nom": "Zed"
+  },
+  {
+    "NumeroChampion": 155,
+    "Nom": "Zeri"
+  },
+  {
+    "NumeroChampion": 156,
+    "Nom": "Ziggs"
+  },
+  {
+    "NumeroChampion": 157,
+    "Nom": "Zilean"
+  },
+  {
+    "NumeroChampion": 158,
+    "Nom": "Zoé"
+  },
+  {
+    "NumeroChampion": 159,
+    "Nom": "Zyra"
+  }
+]

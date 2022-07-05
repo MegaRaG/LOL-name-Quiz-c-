@@ -14,7 +14,7 @@
             </LinearGradientBrush>
         </Grid.Background>
 
-        <Image x:Name="ImmageIntero" VerticalAlignment="Top" Height="225" Margin="0,56,101.2,0" HorizontalAlignment="Right" Width="250" Source="ImagesChamps/interrogation.jpg"/>
+        <Image x:Name="ImmageIntero" VerticalAlignment="Top" Height="225" Margin="0,56,101.2,0" HorizontalAlignment="Right" Width="250" Source="interrogation.jpg"/>
         <Image x:Name = "Immage1" VerticalAlignment="Top" Height="282" Margin="0,56,101.2,0" Source="ImagesChamps/Champion1.jpg" HorizontalAlignment = "Right" Width="250" Visibility="Hidden" />
         <Image x:Name = "Immage2" VerticalAlignment="Top" Height="282" Margin="0,56,101.2,0" Source="ImagesChamps/Champion2.jpg" HorizontalAlignment = "Right" Width="250" Visibility="Hidden" />
         <Image x:Name = "Immage3" VerticalAlignment="Top" Height="282" Margin="0,56,101.2,0" Source="ImagesChamps/Champion3.jpg" HorizontalAlignment = "Right" Width="250" Visibility="Hidden" />
